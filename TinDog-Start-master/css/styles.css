@@ -172,6 +172,7 @@ body {
 
   #apple-button {
     margin: 0;
+    margin-right: 1rem;
   }
   #iphone {
     margin-top: 10rem;
